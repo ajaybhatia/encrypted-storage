@@ -1029,7 +1029,7 @@
 
 "@types/clientjs@^0.2.0":
   version "0.2.0"
-  resolved "https://registry.npmjs.org/@types/clientjs/-/clientjs-0.2.0.tgz"
+  resolved "https://registry.yarnpkg.com/@types/clientjs/-/clientjs-0.2.0.tgz#9a7847ed304c191d7edd5daec4e716dbfcf34882"
   integrity sha512-O3cGzu0RNSefR2eg48swjV0Mc9RFnQLeQfYyKDLaevFWg1UAFkjXGqF3K5PqbUZmxxZMNQGwfNbvePyTpUxuig==
 
 "@types/crypto-js@^4.1.1":
@@ -1379,7 +1379,7 @@ cli-truncate@^2.1.0:
 
 clientjs@^0.2.1:
   version "0.2.1"
-  resolved "https://registry.npmjs.org/clientjs/-/clientjs-0.2.1.tgz"
+  resolved "https://registry.yarnpkg.com/clientjs/-/clientjs-0.2.1.tgz#1b954a0afec9e6e1056f21a2c3107aca37fc2869"
   integrity sha512-HN7yzgq8xMDjkNpSnpH3foMxaX5q9CUMcLAIsNwNnbJnuEhR8CDRxm22mEo+uQdiOUkCl5ZjdoN9lGBbL4jutQ==
   dependencies:
     globalthis "^1.0.2"
